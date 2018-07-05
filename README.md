@@ -1,2 +1,4 @@
 # hello-world
-repository for github tutorial
+Repository for github tutorial.
+
+This file is a just for testing.
